@@ -1,0 +1,6 @@
+outlier_detection/__pycache__/*
+.vscode/*
+outlier_detection/tests/__pycache__/*
+outlier_detection.egg-info/*
+dist/*
+build/*

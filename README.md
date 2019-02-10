@@ -1,0 +1,3 @@
+Detection of outliers in time series. Based on [tsoutliers package](https://cran.r-project.org/web/packages/tsoutliers/index.html) in R by Javier López-de-Lacalle. The original package was following the [Chen and Liu (1993)](doi:10.2307/2290724) procedure.
+
+This package is not a complete port of tsoutlier package, but a ground up implementation of specific code flow in that package. It assumes the STSM time series method, and few more deafult values. ALso the original package is hard to read and follow (even for R standards), and this is an attempt to keep the Python readability spirit up.
